@@ -1,0 +1,160 @@
+2020-10-24 16:53:13,201 logger DEBUG hidden_layers=1, hidden_size=1024, batch_size=5, learning_rate=0.000500
+2020-10-24 16:53:34,544 logger DEBUG Epoch[0] loss:4.299933
+2020-10-24 16:59:43,708 logger DEBUG Epoch[20] loss:1.458070
+2020-10-24 17:05:54,002 logger DEBUG Epoch[40] loss:1.157643
+2020-10-24 17:12:02,349 logger DEBUG Epoch[60] loss:1.024614
+2020-10-24 17:18:09,593 logger DEBUG Epoch[80] loss:0.952960
+2020-10-24 17:24:20,395 logger DEBUG Epoch[100] loss:0.905240
+2020-10-24 17:30:27,129 logger DEBUG Epoch[120] loss:0.870053
+2020-10-24 17:36:38,967 logger DEBUG Epoch[140] loss:0.841247
+2020-10-24 17:42:48,120 logger DEBUG Epoch[160] loss:0.822404
+2020-10-24 17:48:58,973 logger DEBUG Epoch[180] loss:0.802951
+2020-10-24 17:54:50,162 logger DEBUG training finish.
+2020-10-24 17:54:50,162 logger DEBUG  
+ 
+ 
+
+2020-10-24 17:54:50,281 logger DEBUG hidden_layers=2, hidden_size=1024, batch_size=5, learning_rate=0.000500
+2020-10-24 17:55:13,057 logger DEBUG Epoch[0] loss:3.374701
+2020-10-24 18:02:44,108 logger DEBUG Epoch[20] loss:0.392692
+2020-10-24 18:10:14,420 logger DEBUG Epoch[40] loss:0.314062
+2020-10-24 18:17:48,113 logger DEBUG Epoch[60] loss:0.284177
+2020-10-24 18:25:25,617 logger DEBUG Epoch[80] loss:0.267224
+2020-10-24 18:32:54,910 logger DEBUG Epoch[100] loss:0.253537
+2020-10-24 18:40:36,449 logger DEBUG Epoch[120] loss:0.246008
+2020-10-24 18:48:06,719 logger DEBUG Epoch[140] loss:0.238492
+2020-10-24 18:55:47,521 logger DEBUG Epoch[160] loss:0.234391
+2020-10-24 19:03:16,781 logger DEBUG Epoch[180] loss:0.227678
+2020-10-24 19:10:31,229 logger DEBUG training finish.
+2020-10-24 19:10:31,229 logger DEBUG  
+ 
+ 
+
+2020-10-24 19:10:31,378 logger DEBUG hidden_layers=3, hidden_size=1024, batch_size=5, learning_rate=0.000500
+2020-10-24 19:10:56,732 logger DEBUG Epoch[0] loss:2.851056
+2020-10-24 19:19:36,706 logger DEBUG Epoch[20] loss:0.239110
+2020-10-24 19:28:12,765 logger DEBUG Epoch[40] loss:0.197398
+2020-10-24 19:36:46,178 logger DEBUG Epoch[60] loss:0.176203
+2020-10-24 19:45:24,026 logger DEBUG Epoch[80] loss:0.165521
+2020-10-24 19:53:52,912 logger DEBUG Epoch[100] loss:0.159314
+2020-10-24 20:02:30,432 logger DEBUG Epoch[120] loss:0.152120
+2020-10-24 20:11:04,939 logger DEBUG Epoch[140] loss:0.148981
+2020-10-24 20:19:38,695 logger DEBUG Epoch[160] loss:0.145109
+2020-10-24 20:28:14,189 logger DEBUG Epoch[180] loss:0.144033
+2020-10-24 20:36:22,654 logger DEBUG training finish.
+2020-10-24 20:36:22,654 logger DEBUG  
+ 
+ 
+
+2020-10-24 20:36:22,806 logger DEBUG hidden_layers=4, hidden_size=1024, batch_size=5, learning_rate=0.000500
+2020-10-24 20:36:52,520 logger DEBUG Epoch[0] loss:2.917157
+2020-10-24 20:46:31,032 logger DEBUG Epoch[20] loss:0.212912
+2020-10-24 20:56:05,995 logger DEBUG Epoch[40] loss:0.170015
+2020-10-24 21:05:47,303 logger DEBUG Epoch[60] loss:0.151861
+2020-10-24 21:15:28,471 logger DEBUG Epoch[80] loss:0.138212
+2020-10-24 21:25:02,947 logger DEBUG Epoch[100] loss:0.130524
+2020-10-24 21:34:37,425 logger DEBUG Epoch[120] loss:0.127478
+2020-10-24 21:44:22,051 logger DEBUG Epoch[140] loss:0.122755
+2020-10-24 21:53:50,792 logger DEBUG Epoch[160] loss:0.120253
+2020-10-24 22:03:25,583 logger DEBUG Epoch[180] loss:0.113112
+2020-10-24 22:12:37,024 logger DEBUG training finish.
+2020-10-24 22:12:37,025 logger DEBUG  
+ 
+ 
+
+2020-10-24 22:12:37,176 logger DEBUG hidden_layers=5, hidden_size=1024, batch_size=5, learning_rate=0.000500
+2020-10-24 22:13:08,096 logger DEBUG Epoch[0] loss:3.172989
+2020-10-24 22:23:40,276 logger DEBUG Epoch[20] loss:0.230755
+2020-10-24 22:34:12,733 logger DEBUG Epoch[40] loss:0.173695
+2020-10-24 22:44:51,964 logger DEBUG Epoch[60] loss:0.151544
+2020-10-24 22:55:30,464 logger DEBUG Epoch[80] loss:0.139086
+2020-10-24 23:06:00,990 logger DEBUG Epoch[100] loss:0.126575
+2020-10-24 23:16:30,654 logger DEBUG Epoch[120] loss:0.127199
+2020-10-24 23:27:08,821 logger DEBUG Epoch[140] loss:0.121239
+2020-10-24 23:37:39,628 logger DEBUG Epoch[160] loss:0.113868
+2020-10-24 23:48:40,666 logger DEBUG Epoch[180] loss:0.113980
+2020-10-24 23:58:55,956 logger DEBUG training finish.
+2020-10-24 23:58:55,957 logger DEBUG  
+ 
+ 
+
+2020-10-24 23:58:56,135 logger DEBUG hidden_layers=6, hidden_size=1024, batch_size=5, learning_rate=0.000500
+2020-10-24 23:59:33,321 logger DEBUG Epoch[0] loss:3.859989
+2020-10-25 00:11:38,700 logger DEBUG Epoch[20] loss:0.261598
+2020-10-25 00:23:47,248 logger DEBUG Epoch[40] loss:0.196840
+2020-10-25 00:35:52,551 logger DEBUG Epoch[60] loss:0.175074
+2020-10-25 00:48:00,269 logger DEBUG Epoch[80] loss:0.156097
+2020-10-25 01:00:02,216 logger DEBUG Epoch[100] loss:0.143043
+2020-10-25 01:12:08,891 logger DEBUG Epoch[120] loss:0.132509
+2020-10-25 01:24:11,034 logger DEBUG Epoch[140] loss:0.126019
+2020-10-25 01:36:22,250 logger DEBUG Epoch[160] loss:0.126274
+2020-10-25 01:48:24,528 logger DEBUG Epoch[180] loss:0.118099
+2020-10-25 01:59:55,770 logger DEBUG training finish.
+2020-10-25 01:59:55,770 logger DEBUG  
+ 
+ 
+
+2020-10-25 01:59:55,959 logger DEBUG hidden_layers=7, hidden_size=1024, batch_size=5, learning_rate=0.000500
+2020-10-25 02:00:38,895 logger DEBUG Epoch[0] loss:4.260630
+2020-10-25 02:14:17,662 logger DEBUG Epoch[20] loss:0.297463
+2020-10-25 02:27:54,597 logger DEBUG Epoch[40] loss:0.219155
+2020-10-25 02:41:35,380 logger DEBUG Epoch[60] loss:0.190945
+2020-10-25 02:55:16,797 logger DEBUG Epoch[80] loss:0.170527
+2020-10-25 03:08:59,406 logger DEBUG Epoch[100] loss:0.155721
+2020-10-25 03:22:28,615 logger DEBUG Epoch[120] loss:0.161687
+2020-10-25 03:36:08,121 logger DEBUG Epoch[140] loss:0.143682
+2020-10-25 03:49:52,726 logger DEBUG Epoch[160] loss:0.134967
+2020-10-25 04:03:33,448 logger DEBUG Epoch[180] loss:0.130148
+2020-10-25 04:16:38,572 logger DEBUG training finish.
+2020-10-25 04:16:38,572 logger DEBUG  
+ 
+ 
+
+2020-10-25 04:16:38,790 logger DEBUG hidden_layers=8, hidden_size=1024, batch_size=5, learning_rate=0.000500
+2020-10-25 04:17:26,103 logger DEBUG Epoch[0] loss:5.957747
+2020-10-25 04:32:56,588 logger DEBUG Epoch[20] loss:5.927780
+2020-10-25 04:48:20,534 logger DEBUG Epoch[40] loss:5.927034
+2020-10-25 05:04:04,605 logger DEBUG Epoch[60] loss:5.926627
+2020-10-25 05:19:34,818 logger DEBUG Epoch[80] loss:5.926119
+2020-10-25 05:35:08,413 logger DEBUG Epoch[100] loss:5.925530
+2020-10-25 05:50:38,194 logger DEBUG Epoch[120] loss:5.925769
+2020-10-25 06:06:10,314 logger DEBUG Epoch[140] loss:5.925339
+2020-10-25 06:21:46,666 logger DEBUG Epoch[160] loss:5.925727
+2020-10-25 06:37:09,078 logger DEBUG Epoch[180] loss:5.925485
+2020-10-25 06:51:57,504 logger DEBUG training finish.
+2020-10-25 06:51:57,504 logger DEBUG  
+ 
+ 
+
+2020-10-25 06:51:57,743 logger DEBUG hidden_layers=9, hidden_size=1024, batch_size=5, learning_rate=0.000500
+2020-10-25 06:52:51,369 logger DEBUG Epoch[0] loss:5.958939
+2020-10-25 07:10:20,596 logger DEBUG Epoch[20] loss:5.928346
+2020-10-25 07:27:49,440 logger DEBUG Epoch[40] loss:5.926540
+2020-10-25 07:45:18,903 logger DEBUG Epoch[60] loss:5.926445
+2020-10-25 08:02:50,628 logger DEBUG Epoch[80] loss:5.926216
+2020-10-25 08:20:33,643 logger DEBUG Epoch[100] loss:5.925875
+2020-10-25 08:38:11,995 logger DEBUG Epoch[120] loss:5.925766
+2020-10-25 08:55:37,678 logger DEBUG Epoch[140] loss:5.925600
+2020-10-25 09:12:08,300 logger DEBUG Epoch[160] loss:5.925516
+2020-10-25 09:29:18,330 logger DEBUG Epoch[180] loss:5.925538
+2020-10-25 09:45:46,821 logger DEBUG training finish.
+2020-10-25 09:45:46,822 logger DEBUG  
+ 
+ 
+
+2020-10-25 09:45:47,049 logger DEBUG hidden_layers=10, hidden_size=1024, batch_size=5, learning_rate=0.000500
+2020-10-25 09:46:45,645 logger DEBUG Epoch[0] loss:5.955381
+2020-10-25 10:06:25,598 logger DEBUG Epoch[20] loss:5.928226
+2020-10-25 10:26:22,184 logger DEBUG Epoch[40] loss:5.926942
+2020-10-25 10:45:58,504 logger DEBUG Epoch[60] loss:5.926150
+2020-10-25 11:05:26,895 logger DEBUG Epoch[80] loss:5.925838
+2020-10-25 11:24:59,184 logger DEBUG Epoch[100] loss:5.925642
+2020-10-25 11:44:39,045 logger DEBUG Epoch[120] loss:5.925453
+2020-10-25 12:04:14,324 logger DEBUG Epoch[140] loss:5.925393
+2020-10-25 12:24:01,341 logger DEBUG Epoch[160] loss:5.925550
+2020-10-25 12:43:42,633 logger DEBUG Epoch[180] loss:5.925551
+2020-10-25 13:02:17,580 logger DEBUG training finish.
+2020-10-25 13:02:17,581 logger DEBUG  
+ 
+ 
+
